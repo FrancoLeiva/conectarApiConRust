@@ -1,0 +1,7 @@
+[package]
+name = "bicicleta"
+version = "0.1.0"
+authors = ["mac"]
+edition = "2018"
+
+[dependencies]
